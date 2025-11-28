@@ -1,4 +1,4 @@
-*
+/*
  * Sistema simples de inventário para um jogo estilo Battle Royale.
  * O jogador tem uma mochila com espaço limitado e pode inserir,
  * remover, listar e buscar itens.
